@@ -1,0 +1,1 @@
+mbed test --compile -c -DTESTING  -n tests-example_group1-example_test1
